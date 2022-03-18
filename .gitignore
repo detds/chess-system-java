@@ -25,3 +25,6 @@ hs_err_pid*
 =======
 /bin/
 >>>>>>> 3058f70 (project created)
+
+# Eclipse
+.settings/
