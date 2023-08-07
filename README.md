@@ -10,6 +10,9 @@ This is a simple terminal-based chess game implemented in Java. Players can enjo
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [How to Play](#how-to-play)
+  - [Chess Piece Notation](#chess-piece-notation)
+  - [Move Notation](#move-notation)
+  - [Gameplay](#gameplay)
 - [Features](#features)
 - [Game Screenshots](#game-screenshots)
 - [Contributing](#contributing)
@@ -45,6 +48,26 @@ This is a simple terminal-based chess game implemented in Java. Players can enjo
 
 ## How to Play
 
+### Chess Piece Notation
+
+In this chess program, the following piece abbreviations are used:
+
+- `K` - King
+- `Q` - Queen
+- `R` - Rook
+- `N` - Knight
+- `B` - Bishop
+- `P` - Pawn
+
+These abbreviations represent the different chess pieces on the board.
+
+### Move Notation
+
+Moves are specified by providing the source position and the target position. For example, to move a pawn from a2 to a4, you would input: Source: a2, Target: a4.
+Make sure to use the correct notation for the source and target positions to execute your moves successfully.
+
+### Gameplay
+
 1. Open your terminal and navigate to the `src` directory.
 2. Run the compiled Java program:
     
@@ -65,6 +88,7 @@ This is a simple terminal-based chess game implemented in Java. Players can enjo
    Target: a4
    ```
 7. The game will validate your move, update the board, and display the new state.
+8. Continue playing by alternating turns and inputting your moves as described above.
 
 ## Features
 
