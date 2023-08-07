@@ -102,7 +102,9 @@ Make sure to use the correct notation for the source and target positions to exe
 - Clear and user-friendly interface.
 
 ## Game Screenshots
-
+![Chess game - screenshot](assets/ss-1.jpg)
+![Target error - screenshot](assets/ss-2.jpg)
+![You can't put yourself in check - screenshot](assets/ss-3.jpg)
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to add enhancements, feel free to submit a pull request. Please follow the existing coding style and guidelines.
