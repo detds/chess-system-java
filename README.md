@@ -1,5 +1,7 @@
 # Chess System Java
-<!-- <img align="right" width="320" height="426" src="assets/chess-system-java-demo.gif"> -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://github.com/detds/chess-system-java/blob/main/LICENSE)
+
 This is a simple terminal-based chess game implemented in Java. Players can enjoy a game of chess by inputting their moves via the terminal. The game displays the current state of the board, captures pieces for both white and black players, turn count, and the active player's turn.
 
 ![Chess System Demo](assets/chess-system-java-demo.gif) 
@@ -125,5 +127,7 @@ Contributions are welcome! If you find any issues or want to add enhancements, f
 5. Submit a pull request.
 
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://github.com/detds/chess-system-java/blob/main/LICENSE)
 
 This project is licensed under the MIT License.
