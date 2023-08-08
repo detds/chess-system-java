@@ -4,7 +4,7 @@
 
 This is a simple terminal-based chess game implemented in Java. Players can enjoy a game of chess by inputting their moves via the terminal. The game displays the current state of the board, captures pieces for both white and black players, turn count, and the active player's turn.
 
-![Chess System Demo](assets/chess-system-java-demo.gif) 
+![Chess System Java](assets/chess-system-java.jpg)
 
 # Table of Contents
 
@@ -15,6 +15,7 @@ This is a simple terminal-based chess game implemented in Java. Players can enjo
   - [Chess Piece Notation](#chess-piece-notation)
   - [Move Notation](#move-notation)
   - [Gameplay](#gameplay)
+  - [Gameplay Demo](#gameplay-demo)
 - [Features](#features)
 - [Game Screenshots](#game-screenshots)
 - [Contributing](#contributing)
@@ -91,6 +92,10 @@ Make sure to use the correct notation for the source and target positions to exe
    ```
 7. The game will validate your move, update the board, and display the new state.
 8. Continue playing by alternating turns and inputting your moves as described above.
+
+### Gameplay Demo
+
+![Chess System Demo](assets/chess-system-java-demo.gif) 
 
 ## Features
 
